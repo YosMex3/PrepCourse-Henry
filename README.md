@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este repositorio es del modulo 2 del prepcourse de Henry
+Yoshio Alejandro Coutiño Gómez
+
+Este archivo es para crear un repositorio desde github y copiarlo al archivo local
